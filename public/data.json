@@ -1,0 +1,39 @@
+{
+    "programInsights": [
+      {
+        "title": "Number of Youths Employed",
+        "value": "1,251",
+        "description": "Total number of youths in wage employment and self-employment due to SAFEE interventions."
+      },
+      {
+        "title": "Total Loans Disbursed",
+        "value": "809.2",
+        "description": "Total number of loans disbursed to SAFEE participants."
+      },
+      {
+        "title": "Number of Enterprises Supported",
+        "value": "209.2",
+        "description": "MSMEs supported by SAFEE through various resources."
+      },
+      {
+        "title": "Gender Breakdown of Participants",
+        "value": "1,501 (60%) | 850 (40%)",
+        "description": "Male | Female"
+      }
+    ],
+    "additionalStats": [
+      {
+        "title": "Number of youths who participated in training opportunities (Number of MSMEs trained)",
+        "value": "1,250"
+      },
+      {
+        "title": "Number of enterprises/groups accessing financial products/services (Number of unique SAFEE customers)",
+        "value": "1,240"
+      },
+      {
+        "title": "Total value of financial products/services received (Loan disbursement value)",
+        "value": "1,230"
+      }
+    ]
+  }
+  
